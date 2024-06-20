@@ -1,1 +1,1 @@
-# Human-Action-Video-Clustering
+# Classification of Human Activity Through Smartphone Sensors
